@@ -1,5 +1,4 @@
 echo "loading bash_profile"
-export JIRA_API_TOKEN=BYzkffY7X7SijfxWkoSz8EAA
 
 alias gsafepull="git pull origin master --no-ff --no-commit"
 alias gpull="git pull origin master"
